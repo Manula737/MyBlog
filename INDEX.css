@@ -1,0 +1,149 @@
+.img1{
+    width: 570px;
+position: absolute;
+    top: 200px;
+    left: 0px;
+}
+
+
+.text1 {
+    font-size: 27px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: darkred;
+    position: absolute;
+    top: 120px;
+    left: 550px;
+}
+
+
+.text2 {
+    font-size: 50px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: darkred;
+    position: absolute;
+    top: 10px;
+    left: 700px;
+}
+
+.img2{
+    width: 670px;
+position: absolute;
+    top: 200px;
+    left: 570px;
+}
+
+
+.img3{    
+width: 500px;
+height: 370px;
+position: absolute;
+    top: 200px;
+    left: 1240px;
+}
+
+.text3 {
+    font-size: 17px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: rgb(57, 0, 0);
+    position: absolute;
+    top: 620px;
+    left: 500px;
+    right: 500px;
+}
+
+.text4 {
+    font-size: 17px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: rgb(57, 0, 0);
+    position: absolute;
+    top: 1320px;
+    left: 500px;
+    right: 500px;
+}
+
+.text5 {
+    font-size: 17px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    color: rgb(57, 0, 0);
+    position: absolute;
+    top: 1870px;
+    left: 500px;
+    right: 500px;
+}
+
+.img4{
+    width: 490px;
+position: absolute;
+    top: 590px;
+    left: 0px;    
+}
+
+.img5{
+    width: 490px;
+position: absolute;
+    top: 880px;
+    left: 0px;    
+}
+
+.img6{
+    width: 490px;
+position: absolute;
+    top: 1190px;
+    left: 0px;    
+}
+
+.img7{
+    width: 490px;
+position: absolute;
+    top: 1500px;
+    left: 0px;    
+}
+
+.img8{
+    width: 490px;
+position: absolute;
+    top: 1810px;
+    left: 0px;    
+}
+
+.img9{
+    width: 490px;
+position: absolute;
+    top: 600px;
+    right: 0px;    
+}
+
+.img10{
+    width: 490px;
+position: absolute;
+    top: 910px;
+    right: 0px;    
+}
+
+.img11{
+    width: 490px;
+position: absolute;
+    top: 1290px;
+    right: 0px;    
+}
+
+.img12{
+    width: 490px;
+position: absolute;
+    top: 1700px;
+    right: 0px;    
+}
+
+.img13{
+    width: 490px;
+position: absolute;
+    top: 2010px;
+    right: 0px;    
+}
+
+.img14{
+    width: 477px;
+position: absolute;
+    top: 2200px;
+    left: 10px;    
+}
